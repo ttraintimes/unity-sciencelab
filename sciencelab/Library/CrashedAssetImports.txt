@@ -1,1 +1,1 @@
-Assets/Abandoned_Asylum/Textures/Pipe_Normal.png
+Assets/Abandoned_Asylum/Textures/Box_V1_Normal.png
